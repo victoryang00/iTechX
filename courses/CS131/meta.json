@@ -10,9 +10,7 @@
                 "songfu"
             ],
             "ta": [
-                "yangyw",
-                "jlAndres",
-                "youch"
+                "yangyw", "jiyb", "youch"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -28,8 +26,7 @@
                 "songfu"
             ],
             "ta": [
-                "qinqi",
-                "cailw"
+                "qinqi", "cailw"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",
@@ -41,13 +38,11 @@
             "course_id": "CS131.01",
             "season": "Spring",
             "year": "2017",
-            "mainpage": "https://i-techx.github.io/CS131/index.html",
             "teacher": [
-                "sonfu"
+                "songfu"
             ],
             "ta": [
-                "zhangyd",
-                "cailw"
+                "cailw", "unknown"
             ],
             "department": "信息科学与技术学院",
             "credit": "4",

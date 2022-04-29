@@ -167,6 +167,12 @@
         ],
         "teach-courses": [
             [
+                "Spring",
+                "2022",
+                "CS274A",
+                "Natural Language Processing"
+            ],
+            [
                 "Fall",
                 "2021",
                 "CS181",
@@ -417,6 +423,12 @@
         "teach-courses": [
             [
                 "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ],
+            [
+                "Spring",
                 "2021",
                 "CS110",
                 "Computer Architecture I"
@@ -469,6 +481,12 @@
             ]
         ],
         "teach-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ],
             [
                 "Fall",
                 "2021",
@@ -680,6 +698,12 @@
         "teach-courses": [
             [
                 "Spring",
+                "2022",
+                "CS282",
+                "Machine Learning"
+            ],
+            [
+                "Spring",
                 "2021",
                 "CS282",
                 "Machine Learning"
@@ -762,6 +786,12 @@
             ]
         ],
         "teach-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS182",
+                "Introduction to Machine Learning"
+            ],
             [
                 "Fall",
                 "2021",
@@ -1271,6 +1301,12 @@
             ],
             [
                 "Fall",
+                "2019",
+                "CS131",
+                "Programming Languages and Compilers"
+            ],
+            [
+                "Fall",
                 "2018",
                 "CS100",
                 "Introduction to Programming"
@@ -1278,12 +1314,6 @@
             [
                 "Spring",
                 "2017",
-                "CS131",
-                "Programming Languages and Compilers"
-            ],
-            [
-                "Fall",
-                "2019",
                 "CS131",
                 "Programming Languages and Compilers"
             ]
@@ -1358,6 +1388,12 @@
             ]
         ],
         "teach-courses": [
+            [
+                "Spring",
+                "2022",
+                "SI252",
+                "Reinforcement Learning"
+            ],
             [
                 "Spring",
                 "2021",
@@ -1628,6 +1664,12 @@
         "teach-courses": [
             [
                 "Spring",
+                "2022",
+                "EE111",
+                "Electric Circuits"
+            ],
+            [
+                "Spring",
                 "2021",
                 "EE111",
                 "Electric Circuits"
@@ -1771,6 +1813,12 @@
         ],
         "ta-courses": [
             [
+                "Spring",
+                "2022",
+                "CS274A",
+                "Natural Language Processing"
+            ],
+            [
                 "Fall",
                 "2021",
                 "CS181",
@@ -1822,6 +1870,7 @@
     },
     "youch": {
         "name": "尤存翰",
+        "image": true,
         "info": [
             [
                 "envelope",
@@ -1831,16 +1880,22 @@
         ],
         "ta-courses": [
             [
-                "Fall",
-                "2021",
-                "CS130",
-                "Operating Systems I"
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
             ],
             [
                 "Spring",
                 "2021",
                 "CS131",
                 "Programming Languages and Compilers"
+            ],
+            [
+                "Fall",
+                "2021",
+                "CS130",
+                "Operating Systems I"
             ],
             [
                 "Spring",
@@ -1860,8 +1915,7 @@
                 "CS100",
                 "Introduction to Programming"
             ]
-        ],
-        "image": true
+        ]
     },
     "zhuqy": {
         "name": "祝青杨",
@@ -2000,6 +2054,12 @@
         ],
         "ta-courses": [
             [
+                "Spring",
+                "2022",
+                "CS274A",
+                "Natural Language Processing"
+            ],
+            [
                 "Fall",
                 "2021",
                 "CS181",
@@ -2048,6 +2108,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS274A",
+                "Natural Language Processing"
+            ],
             [
                 "Fall",
                 "2020",
@@ -2603,6 +2669,12 @@
         "ta-courses": [
             [
                 "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ],
+            [
+                "Spring",
                 "2021",
                 "CS100",
                 "Introduction to Programming"
@@ -2923,6 +2995,12 @@
         "ta-courses": [
             [
                 "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ],
+            [
+                "Spring",
                 "2021",
                 "CS110",
                 "Computer Architecture I"
@@ -3044,6 +3122,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ],
             [
                 "Spring",
                 "2021",
@@ -3947,6 +4031,12 @@
         ],
         "ta-courses": [
             [
+                "Spring",
+                "2022",
+                "CS282",
+                "Machine Learning"
+            ],
+            [
                 "Fall",
                 "2021",
                 "CS240",
@@ -4051,6 +4141,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS282",
+                "Machine Learning"
+            ],
             [
                 "Fall",
                 "2021",
@@ -4409,6 +4505,7 @@
     },
     "ningshanl": {
         "name": "宁珊",
+        "image": true,
         "info": [
             [
                 "envelope",
@@ -4417,6 +4514,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ],
             [
                 "Fall",
                 "2021",
@@ -4837,6 +4940,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ],
             [
                 "Fall",
                 "2021",
@@ -5685,6 +5794,7 @@
     },
     "qinqi": {
         "name": "秦琦",
+        "image": true,
         "info": [
             [
                 "envelope",
@@ -5698,9 +5808,14 @@
                 "2020",
                 "CS152",
                 "Applied Cryptography"
+            ],
+            [
+                "Fall",
+                "2019",
+                "CS131",
+                "Programming Languages and Compilers"
             ]
-        ],
-        "image": true
+        ]
     },
     "zhunzh": {
         "name": "祝宁之",
@@ -6548,6 +6663,12 @@
         "ta-courses": [
             [
                 "Spring",
+                "2022",
+                "SI252",
+                "Reinforcement Learning"
+            ],
+            [
+                "Spring",
                 "2020",
                 "SI252",
                 "Reinforcement Learning"
@@ -6575,6 +6696,12 @@
             ]
         ],
         "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "SI252",
+                "Reinforcement Learning"
+            ],
             [
                 "Spring",
                 "2021",
@@ -6936,44 +7063,375 @@
             ]
         ]
     },
-    "yangyw": {
-        "name": "杨易为",
+    "gouby": {
+        "name": "苟博宇",
         "image": true,
+        "info": [
+            [
+                "envelope",
+                "&#x67;&#x6f;&#x75;&#98;&#121;&#64;&#x73;&#x68;&#x61;&#110;&#x67;&#x68;&#x61;&#x69;&#116;&#101;&#x63;&#104;&#46;&#101;&#100;&#117;&#46;&#x63;&#x6e;",
+                "mailto:&#x67;&#x6f;&#x75;&#98;&#121;&#64;&#x73;&#x68;&#x61;&#110;&#x67;&#x68;&#x61;&#x69;&#116;&#101;&#x63;&#104;&#46;&#101;&#100;&#117;&#46;&#x63;&#x6e;"
+            ]
+        ],
         "ta-courses": [
             [
                 "Spring",
-                "2021",
-                "CS131",
-                "Programming Languages and Compilers"
-            ]
-        ],
-        "info": [
-            [
-                "fa-envelope",
-                "yangyw@shanghaitech.edu.cn",
-                "mailto:yangyw@shanghaitech.edu.cn"
-            ],
-            [
-                "fa-file",
-                "https://victoryang00.cn",
-                "https://victoryang00.cn"
+                "2022",
+                "CS110",
+                "Computer Architecture I"
             ]
         ]
     },
-    "jlAndres": {
-        "name": "季杨彪",
+    "wuwq": {
+        "name": "吴蔚琪",
         "image": true,
+        "info": [
+            [
+                "envelope",
+                "&#x77;&#x75;&#x77;&#x71;&#x40;&#115;&#104;&#x61;&#x6e;&#103;&#104;&#x61;&#x69;&#116;&#x65;&#99;&#104;&#x2e;&#101;&#100;&#117;&#46;&#x63;&#x6e;",
+                "mailto:&#x77;&#x75;&#x77;&#x71;&#x40;&#115;&#104;&#x61;&#x6e;&#103;&#104;&#x61;&#x69;&#116;&#x65;&#99;&#104;&#x2e;&#101;&#100;&#117;&#46;&#x63;&#x6e;"
+            ]
+        ],
         "ta-courses": [
             [
                 "Spring",
-                "2021",
-                "CS131",
-                "Programming Languages and Compilers"
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ]
+        ]
+    },
+    "wuyh3": {
+        "name": "吴义恒",
+        "image": true,
+        "info": [
+            [
+                "envelope",
+                "&#x77;&#117;&#121;&#104;&#x33;&#x40;&#x73;&#104;&#x61;&#x6e;&#103;&#x68;&#97;&#x69;&#x74;&#x65;&#x63;&#x68;&#x2e;&#101;&#100;&#x75;&#46;&#99;&#110;",
+                "mailto:&#x77;&#117;&#121;&#104;&#x33;&#x40;&#x73;&#104;&#x61;&#x6e;&#103;&#x68;&#97;&#x69;&#x74;&#x65;&#x63;&#x68;&#x2e;&#101;&#100;&#x75;&#46;&#99;&#110;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ]
+        ]
+    },
+    "xubw": {
+        "name": "徐博文",
+        "image": true,
+        "info": [
+            [
+                "envelope",
+                "&#120;&#x75;&#x62;&#x77;&#x40;&#115;&#104;&#97;&#110;&#x67;&#104;&#x61;&#x69;&#x74;&#101;&#x63;&#104;&#x2e;&#101;&#100;&#x75;&#46;&#99;&#110;",
+                "mailto:&#120;&#x75;&#x62;&#x77;&#x40;&#115;&#104;&#97;&#110;&#x67;&#104;&#x61;&#x69;&#x74;&#101;&#x63;&#104;&#x2e;&#101;&#100;&#x75;&#46;&#99;&#110;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ]
+        ]
+    },
+    "yanghd": {
+        "name": "杨宏笛",
+        "image": true,
+        "info": [
+            [
+                "envelope",
+                "&#121;&#x61;&#x6e;&#x67;&#104;&#x64;&#64;&#x73;&#x68;&#97;&#x6e;&#x67;&#x68;&#97;&#x69;&#116;&#101;&#x63;&#x68;&#46;&#x65;&#100;&#x75;&#x2e;&#99;&#110;",
+                "mailto:&#121;&#x61;&#x6e;&#x67;&#104;&#x64;&#64;&#x73;&#x68;&#97;&#x6e;&#x67;&#x68;&#97;&#x69;&#116;&#101;&#x63;&#x68;&#46;&#x65;&#100;&#x75;&#x2e;&#99;&#110;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ]
+        ]
+    },
+    "zhangzhr2": {
+        "name": "张展睿",
+        "image": true,
+        "info": [
+            [
+                "envelope",
+                "&#122;&#x68;&#x61;&#x6e;&#103;&#122;&#104;&#114;&#50;&#x40;&#x73;&#104;&#97;&#x6e;&#x67;&#104;&#97;&#x69;&#116;&#101;&#x63;&#x68;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#110;",
+                "mailto:&#122;&#x68;&#x61;&#x6e;&#103;&#122;&#104;&#114;&#50;&#x40;&#x73;&#104;&#97;&#x6e;&#x67;&#104;&#97;&#x69;&#116;&#101;&#x63;&#x68;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#110;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ]
+        ]
+    },
+    "zhaoyb1": {
+        "name": "赵奕博",
+        "image": true,
+        "info": [
+            [
+                "envelope",
+                "&#x7a;&#x68;&#97;&#x6f;&#x79;&#98;&#49;&#x40;&#x73;&#x68;&#97;&#x6e;&#x67;&#104;&#x61;&#105;&#x74;&#x65;&#x63;&#x68;&#46;&#101;&#100;&#x75;&#x2e;&#x63;&#x6e;",
+                "mailto:&#x7a;&#x68;&#97;&#x6f;&#x79;&#98;&#49;&#x40;&#x73;&#x68;&#97;&#x6e;&#x67;&#104;&#x61;&#105;&#x74;&#x65;&#x63;&#x68;&#46;&#101;&#100;&#x75;&#x2e;&#x63;&#x6e;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ]
+        ]
+    },
+    "zhaoyd1": {
+        "name": "赵奕达",
+        "image": true,
+        "info": [
+            [
+                "envelope",
+                "&#122;&#104;&#x61;&#111;&#121;&#100;&#49;&#x40;&#115;&#x68;&#97;&#x6e;&#x67;&#104;&#x61;&#105;&#x74;&#101;&#x63;&#104;&#x2e;&#101;&#x64;&#117;&#46;&#x63;&#x6e;",
+                "mailto:&#122;&#104;&#x61;&#111;&#121;&#100;&#49;&#x40;&#115;&#x68;&#97;&#x6e;&#x67;&#104;&#x61;&#105;&#x74;&#101;&#x63;&#104;&#x2e;&#101;&#x64;&#117;&#46;&#x63;&#x6e;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ]
+        ]
+    },
+    "louchao": {
+        "name": "楼超",
+        "info": [
+            [
+                "envelope",
+                "&#108;&#111;&#x75;&#x63;&#104;&#x61;&#111;&#x40;&#115;&#x68;&#97;&#x6e;&#x67;&#x68;&#97;&#x69;&#116;&#101;&#x63;&#104;&#x2e;&#x65;&#100;&#x75;&#46;&#99;&#110;",
+                "mailto:&#108;&#111;&#x75;&#x63;&#104;&#x61;&#111;&#x40;&#115;&#x68;&#97;&#x6e;&#x67;&#x68;&#97;&#x69;&#116;&#101;&#x63;&#104;&#x2e;&#x65;&#100;&#x75;&#46;&#99;&#110;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS274A",
+                "Natural Language Processing"
             ]
         ]
     },
     "cailw": {
         "name": "蔡陆伟",
-        "image": true
+        "image": true,
+        "ta-courses": [
+            [
+                "Fall",
+                "2019",
+                "CS131",
+                "Programming Languages and Compilers"
+            ],
+            [
+                "Spring",
+                "2017",
+                "CS131",
+                "Programming Languages and Compilers"
+            ]
+        ]
+    },
+    "yangyw": {
+        "name": "杨易为",
+        "image": true,
+        "info": [
+            [
+                "envelope",
+                "&#121;&#x61;&#110;&#103;&#121;&#119;&#64;&#x73;&#x68;&#97;&#x6e;&#103;&#104;&#97;&#x69;&#x74;&#x65;&#99;&#104;&#46;&#x65;&#x64;&#117;&#46;&#x63;&#x6e;",
+                "mailto:&#121;&#x61;&#110;&#103;&#121;&#119;&#64;&#x73;&#x68;&#97;&#x6e;&#103;&#104;&#97;&#x69;&#x74;&#x65;&#99;&#104;&#46;&#x65;&#x64;&#117;&#46;&#x63;&#x6e;"
+            ],
+            [
+                "home",
+                "Home Page",
+                "https://victoryang00.cn"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2021",
+                "CS131",
+                "Programming Languages and Compilers"
+            ]
+        ]
+    },
+    "jiyb": {
+        "name": "季杨彪",
+        "image": true,
+        "info": [
+            [
+                "envelope",
+                "&#x6a;&#x69;&#121;&#x62;&#x40;&#115;&#104;&#97;&#110;&#x67;&#104;&#x61;&#105;&#116;&#101;&#99;&#x68;&#x2e;&#x65;&#x64;&#x75;&#x2e;&#99;&#x6e;",
+                "mailto:&#x6a;&#x69;&#121;&#x62;&#x40;&#115;&#104;&#97;&#110;&#x67;&#104;&#x61;&#105;&#116;&#101;&#99;&#x68;&#x2e;&#x65;&#x64;&#x75;&#x2e;&#99;&#x6e;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2021",
+                "CS131",
+                "Programming Languages and Compilers"
+            ]
+        ]
+    },
+    "chenmeng": {
+        "name": "陈濛",
+        "image": true,
+        "info": [
+            [
+                "envelope",
+                "&#99;&#x68;&#x65;&#x6e;&#x6d;&#101;&#x6e;&#x67;&#64;&#115;&#x68;&#x61;&#110;&#103;&#104;&#97;&#x69;&#x74;&#x65;&#99;&#x68;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#x6e;",
+                "mailto:&#99;&#x68;&#x65;&#x6e;&#x6d;&#101;&#x6e;&#x67;&#64;&#115;&#x68;&#x61;&#110;&#103;&#104;&#97;&#x69;&#x74;&#x65;&#99;&#x68;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#x6e;"
+            ]
+        ],
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS110",
+                "Computer Architecture I"
+            ]
+        ]
+    },
+    "linwj": {
+        "name": "林维嘉",
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS182",
+                "Introduction to Machine Learning"
+            ]
+        ]
+    },
+    "wangxy6": {
+        "name": "王欣奕",
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS182",
+                "Introduction to Machine Learning"
+            ]
+        ]
+    },
+    "yangzj": {
+        "name": "杨子健",
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS182",
+                "Introduction to Machine Learning"
+            ]
+        ]
+    },
+    "zhengtk": {
+        "name": "郑天阔",
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "EE111",
+                "Electric Circuits"
+            ]
+        ]
+    },
+    "longcai": {
+        "name": "龙偲",
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "EE111",
+                "Electric Circuits"
+            ]
+        ]
+    },
+    "wangjk": {
+        "name": "王剑坤",
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS282",
+                "Machine Learning"
+            ]
+        ]
+    },
+    "liangshuang": {
+        "name": "梁爽",
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS282",
+                "Machine Learning"
+            ]
+        ]
+    },
+    "lizhw": {
+        "name": "李志伟",
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "CS282",
+                "Machine Learning"
+            ]
+        ]
+    },
+    "brian": {
+        "name": "Brian Cox",
+        "teach-courses": [
+            [
+                "Spring",
+                "2022",
+                "ARTS1303",
+                "Unity Game Development"
+            ]
+        ]
+    },
+    "liuzhch1": {
+        "name": "刘志成",
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "ARTS1303",
+                "Unity Game Development"
+            ]
+        ]
+    },
+    "mingyt": {
+        "name": "明钰涛",
+        "ta-courses": [
+            [
+                "Spring",
+                "2022",
+                "ARTS1303",
+                "Unity Game Development"
+            ]
+        ]
     }
 }
